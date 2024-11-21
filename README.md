@@ -1,2 +1,1 @@
-### 银行管理系统  
-#### ~~十分简陋~~
+## A simple bank management system implemented in C++  
